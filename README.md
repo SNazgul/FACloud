@@ -1,2 +1,2 @@
 # FACloud
-Windows client that represents an FTM server as cloud storage
+Windows client that represents an FTP server as cloud storage
